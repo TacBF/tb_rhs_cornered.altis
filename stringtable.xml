@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Cornered">
+
+	<Key ID="STR_TB_missionTitle_TB_Cornered">
+		<Original>Cornered</Original>
+		<English>Cornered</English>
+		<German>Cornered</German>
+		<Italian>Cornered</Italian>
+		<Spanish>Cornered</Spanish>
+		<French>Cornered</French>
+		<Czech>Cornered</Czech>
+		<Russian>Cornered</Russian>
+		<Polish>Cornered</Polish>
+		<Hungarian>Cornered</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_Cornered">
+		<Original>TacBF A&amp;S[T-10]: Cornered</Original>
+		<English>TacBF A&amp;S[T-10]: Cornered</English>
+		<German>TacBF A&amp;S[T-10]: Cornered</German>
+		<Italian>TacBF A&amp;S[T-10]: Cornered</Italian>
+		<Spanish>TacBF A&amp;S[T-10]: Cornered</Spanish>
+		<French>TacBF A&amp;S[T-10]: Cornered</French>
+		<Czech>TacBF A&amp;S[T-10]: Cornered</Czech>
+		<Russian>TacBF A&amp;S[T-10]: Cornered</Russian>
+		<Polish>TacBF A&amp;S[T-10]: Cornered</Polish>
+		<Hungarian>TacBF A&amp;S[T-10]: Cornered</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>

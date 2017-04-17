@@ -1,0 +1,27 @@
+Spice--------------------------------------------------
+In Spice first line of the deck is always ingnored
+comments start with * symbol
+*I am a comment
+never forget .END
+-------------------------------------------------------
+
+How you actually build integrated circuits
+
+MOS transistor МОП транзистор но есть и дрругой транзистор который используют в
+чипах: Fin transistor
+
+Building trransitors on the top of the substrate. 
+
+Turn on.
+Apply voltage between gate and source. This acracts some electrons on the furface benith
+oxide layer and froms a channel. Channel enables flow of electrins betwean soruce and drain
+ 
+14:08 CMOS Manufacturing
+Building CMOS chip is like printing
+
+Advanced Metallization
+
+Why different width for the wires. Wires closer to transistor are much smaller then
+wires on the top. 
+We want transitor near each other. Hence more wires. 
+30 min  
